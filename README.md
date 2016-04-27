@@ -1,0 +1,2 @@
+# CheckFirstWordFromChinese
+根据汉字的首字母排序
